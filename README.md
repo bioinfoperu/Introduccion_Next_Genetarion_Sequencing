@@ -1,7 +1,7 @@
 # Introducción a tecnologías de Next Generation Sequencing (NGS)
 Familarizarse con las diferentes tecnologías de Next Generation Sequencing 
 
-# Instructor 👩‍🏫  
+# Instructora 👩‍🏫  
 Thalía Araceli Silvestre Espejo 
 
 Yo amo 🎤, 💃 and ☕
@@ -78,3 +78,7 @@ Se describe como tecnologías de short-reads
 | Sanger |	PCR y clonación	| Fluoróforos	| 800	|800 pb	|3 horas |
 | Roche 454 GS FLX Titanio |	PCR en emulsión	| Pirosecuenciación	| 400	| 500 Mb	| 10 h |
 |SOLiD	| PCR en emulsión |	Secuenciación por ligación |	50 |	30–50 Gb |	7-14 días |
+ 
+**Illumina**
+ 
+ 
