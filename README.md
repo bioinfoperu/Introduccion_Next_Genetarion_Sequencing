@@ -33,7 +33,7 @@ Research Institute (NHGRI)*
 ```
 Se describe como tecnologías de short-reads
 ```
-* 454
+**454**
  ```
   Esta tecnología está basada en el método de secuenciamiento por síntesis que involucra una combinación de PCR en emulsión y el pirosecuenciamiento
   ```
