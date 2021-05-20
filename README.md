@@ -4,7 +4,8 @@ Familarizarse con las diferentes tecnologías de Next Generation Sequencing
 # Instructor 👩‍🏫  
 Thalía Araceli Silvestre Espejo 
 
-Yo amo 🎤, 💃 and ☕ 
+Yo amo 🎤, 💃 and ☕
+
 
 # Breve historia de la secuenciación del ADN
 Resaltar hechos importantes antes de la comercialización de tecnologías de Next Generation Sequencing (NGS) en una línea de tiempo
@@ -15,7 +16,8 @@ Resaltar hechos importantes antes de la comercialización de tecnologías de Nex
 # Tecnologías de Next Generation Sequencing
 
 ```
-Describe colectivamente los enfoques de secuenciación que han reducido el tiempo y el costo y han aumentado enormemente la producción de la secuencia en comparación con la secuenciación de Sanger.
+Describe colectivamente los enfoques de secuenciación que han reducido el tiempo y el costo y han aumentado enormemente la producción de la secuencia en comparación con la secuenciación de Sanger. 
+Tecnologías de secuenciación de alto rendimiento.
 ```
 * NGS se caracteriza por realizar de millones a miles de millones de reacciones de secuenciación individuales simultáneamente en un proceso denominado secuenciación masivamente paralela.
 
@@ -25,4 +27,14 @@ Describe colectivamente los enfoques de secuenciación que han reducido el tiemp
 Research Institute (NHGRI)*
 <p align="center">
 <img src="https://www.genome.gov/sites/default/files/inline-images/NHGRISequencing_Cost_per_Megabase_Aug2020.jpg"  width="650" height="600">
-
+ 
+ # Tecnologías de la segunda generación
+ 
+```
+Se describe como tecnologías de short-reads
+```
+* 454
+ ```
+  Esta tecnología está basada en el método de secuenciamiento por síntesis que involucra una combinación de PCR en emulsión y el pirosecuenciamiento
+  ```
+  2005 ➡️ Secuenciamiento y ensamblaje de *novo* del genoma de *Mycoplasma genitalium* con 96% de cobertura y 99,96% de presición en un corrida
