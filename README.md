@@ -44,7 +44,7 @@ Se describe como tecnologías de short-reads
 <p align="center">
 <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/Start-Here!.png" width="450" height="450">
  
- | PLATAFORMA | PREPARACION DE LIBRERÍA | QUÍMICA | LONGITUD DE LECTURA | BASES POR CORRIDA | DURACION |
+| PLATAFORMA | PREPARACION DE LIBRERÍA | QUÍMICA | LONGITUD DE LECTURA | BASES POR CORRIDA | DURACION |
 | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
 | Sanger |	PCR y clonación	| Fluoróforos	| 800	|800 pb	|3 horas |
 | Roche 454 GS FLX Titanio |	PCR en emulsión	| Pirosecuenciación	| 400	| 500 Mb	| 10 h |
@@ -66,3 +66,15 @@ Se describe como tecnologías de short-reads
  El secuencimiento toma lugar con cebador universal (4 tipos), ligasa, sonda de 8-mers marcado con fluorescente en el extremo final.
  
 <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/solid.png" >
+
+* Ventaja
+  - Secuencia una base dos veces lo que permite lograr una precisión general superior a 99,94%.
+ 
+* Desventaja
+  - Las herramientas bioinformpaticas se basan en llamadas de ADN en lugar de espacio de color.
+ 
+| PLATAFORMA | PREPARACION DE LIBRERÍA | QUÍMICA | LONGITUD DE LECTURA | BASES POR CORRIDA | DURACION |
+| ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
+| Sanger |	PCR y clonación	| Fluoróforos	| 800	|800 pb	|3 horas |
+| Roche 454 GS FLX Titanio |	PCR en emulsión	| Pirosecuenciación	| 400	| 500 Mb	| 10 h |
+|SOLiD	| PCR en emulsión |	Secuenciación por ligación |	50 |	30–50 Gb |	7-14 días |
