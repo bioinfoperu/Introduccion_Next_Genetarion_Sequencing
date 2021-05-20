@@ -38,3 +38,11 @@ Se describe como tecnologías de short-reads
   Esta tecnología está basada en el método de secuenciamiento por síntesis que involucra una combinación de PCR en emulsión y el pirosecuenciamiento
   ```
   2005 ➡️ Secuenciamiento y ensamblaje de *novo* del genoma de *Mycoplasma genitalium* con 96% de cobertura y 99,96% de presición en un corrida
+  
+ El pirosecuenciamiento se realiza usando una sola hebra de ADN de la muestra, cebador, enzima polimerasa, ATP sulfurilasa, luciferasa y apirasa como se muestra  en la siguiente figura. 
+
+<p align="center">
+<img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/Start-Here!.png" width="450" height="450">
+ 
+ 
+ 
