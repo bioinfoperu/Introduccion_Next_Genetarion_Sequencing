@@ -59,5 +59,6 @@ Se describe como tecnologías de short-reads
 **ABI SOLiD**
  
  ```
-  Esta tecnología está basada en ligación
+  Esta tecnología está basada en ligación, usando el sitema de codificación di-base
   ```
+<img src="https://www.researchgate.net/figure/Applied-Biosystems-SOLiD-Ligase-enzyme-combines-fluorescently-labeled-interrogation_fig1_266740630" >
