@@ -44,5 +44,20 @@ Se describe como tecnologías de short-reads
 <p align="center">
 <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/Start-Here!.png" width="450" height="450">
  
+ | PLATAFORMA | PREPARACION DE LIBRERÍA | QUÍMICA | LONGITUD DE LECTURA | BASES POR CORRIDA | DURACION |
+| ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
+| Sanger |	PCR y clonación	| Fluoróforos	| 800	|800 pb	|3 horas |
+| Roche 454 GS FLX Titanio |	PCR en emulsión	| Pirosecuenciación	| 400	| 500 Mb	| 10 h |
  
  
+* Desventajas
+  - Dificultad de interpretar el número de bases de un homopolímero
+  - Producción de réplicas artificiales 
+  - Costoso 
+ 
+ 
+**ABI SOLiD**
+ 
+ ```
+  Esta tecnología está basada en ligación
+  ```
