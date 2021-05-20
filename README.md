@@ -61,4 +61,8 @@ Se describe como tecnologías de short-reads
  ```
   Esta tecnología está basada en ligación, usando el sitema de codificación di-base
   ```
-<img src="https://www.researchgate.net/figure/Applied-Biosystems-SOLiD-Ligase-enzyme-combines-fluorescently-labeled-interrogation_fig1_266740630" >
+ En la siguiente imagen estraída de Kürekçi et.al 2014 se podrá ver la metodología de secuenciamiento de manera detalla.
+ Esta metodología inicia con la formación de librerías, unión de librerías a adaptadores que entan en perlas para proceder a la PCR en emulsión y continuar con el secuencimiento.
+ El secuencimiento toma lugar con cebador universal (4 tipos), ligasa, sonda de 8-mers marcado con fluorescente en el extremo final.
+ 
+<img src="" >
