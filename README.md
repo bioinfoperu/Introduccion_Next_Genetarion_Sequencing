@@ -65,4 +65,4 @@ Se describe como tecnologías de short-reads
  Esta metodología inicia con la formación de librerías, unión de librerías a adaptadores que entan en perlas para proceder a la PCR en emulsión y continuar con el secuencimiento.
  El secuencimiento toma lugar con cebador universal (4 tipos), ligasa, sonda de 8-mers marcado con fluorescente en el extremo final.
  
-<img src="" >
+<img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/solid.png" >
