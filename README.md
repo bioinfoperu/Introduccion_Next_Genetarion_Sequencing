@@ -88,3 +88,6 @@ Se describe como tecnologías de short-reads
  El secuenciamiento comienza con la adición de cebador, ADN polimerasa y diferentes nucleótidos terminadores marcados con fluorescencia. 
  Con la adición de cada nucleótido, la síntesis se detiene y se registra la luz de fluorescencia. Después de la eliminación del grupo químico terminador que está conectado al nucleótido, tiene lugar el siguiente ciclo de síntesis.
  
+ <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/ilunina.png">
+ Figura extraída de Low et al. 2017
+ 
