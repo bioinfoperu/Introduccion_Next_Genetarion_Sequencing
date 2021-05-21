@@ -92,5 +92,24 @@ Se describe como tecnologías de short-reads
  Figura extraída de Low et al. 2017
  
  La plataforma Illumina posee diferentes sistemas de secuenciación tal como se muestra en la siguiente tabla estraída de Kumar et al. 2019
-  <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/tabla:illu.png">
+ 
+ <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/tabla:illu.png">
+ 
+| PLATAFORMA | PREPARACION DE LIBRERÍA | QUÍMICA | LONGITUD DE LECTURA | BASES POR CORRIDA | DURACION |
+| ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
+| Sanger |	PCR y clonación	| Fluoróforos	| 800	|800 pb	|3 horas |
+| Roche 454 GS FLX Titanio |	PCR en emulsión	| Pirosecuenciación	| 400	| 500 Mb	| 10 h |
+|SOLiD	| PCR en emulsión |	Secuenciación por ligación |	50 |	30–50 Gb |	7-14 días |
+| Illumina |	PCR	Puente | Terminadores reversibles |	35-300	| 0,1–3000 Gb | 7 a 84 h |
+ 
+* Ventajas
+  - Bajo Costo
+  - Herramientas bioinformticas para procesar la data 
+  - No tiene problemas con los homopolimeros 
+  - Reads en paired-end
+ 
+* Desventajas 
+  - El extremo 3' de los reads tienen baja calidad.
+  - Errores en las regiones invertidad repetidas y secuencias GCC.
+  - Cualquier burbuja o daño en elos reactivos influencia negativamente en el secuenciamiento.
  
