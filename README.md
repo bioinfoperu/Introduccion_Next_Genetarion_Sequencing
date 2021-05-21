@@ -91,3 +91,6 @@ Se describe como tecnologías de short-reads
  <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/ilunina.png">
  Figura extraída de Low et al. 2017
  
+ La plataforma Illumina posee diferentes sistemas de secuenciación tal como se muestra en la siguiente tabla estraída de Kumar et al. 2019
+  <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/tabla:illu.png">
+ 
