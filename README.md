@@ -66,19 +66,25 @@ Se describe como tecnologías de short-reads
  El secuencimiento toma lugar con cebador universal (4 tipos), ligasa, sonda de 8-mers marcado con fluorescente en el extremo final.
  
 <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/solid.png" >
-
-* Ventaja
-  - Secuencia una base dos veces lo que permite lograr una precisión general superior a 99,94%.
- 
-* Desventaja
-  - Las herramientas bioinformpaticas se basan en llamadas de ADN en lugar de espacio de color.
  
 | PLATAFORMA | PREPARACION DE LIBRERÍA | QUÍMICA | LONGITUD DE LECTURA | BASES POR CORRIDA | DURACION |
 | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
 | Sanger |	PCR y clonación	| Fluoróforos	| 800	|800 pb	|3 horas |
 | Roche 454 GS FLX Titanio |	PCR en emulsión	| Pirosecuenciación	| 400	| 500 Mb	| 10 h |
 |SOLiD	| PCR en emulsión |	Secuenciación por ligación |	50 |	30–50 Gb |	7-14 días |
+
+* Ventaja
+  - Secuencia una base dos veces lo que permite lograr una precisión general superior a 99,94%.
  
+* Desventaja
+  - Las herramientas bioinformpaticas se basan en llamadas de ADN en lugar de espacio de color.
+  
 **Illumina**
  
+ ```
+  Basada en secuenciación por síntesis, mediante el método método de terminación cíclica reversible.
+ ```
+ La fase de amplificación difiere de los dos anteriores tecnologías, Illumina se basa en PCR puente.
+ El secuenciamiento comienza con la adición de cebador, ADN polimerasa y diferentes nucleótidos terminadores marcados con fluorescencia. 
+ Con la adición de cada nucleótido, la síntesis se detiene y se registra la luz de fluorescencia. Después de la eliminación del grupo químico terminador que está conectado al nucleótido, tiene lugar el siguiente ciclo de síntesis.
  
