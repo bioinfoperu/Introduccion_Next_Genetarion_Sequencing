@@ -112,4 +112,13 @@ Se describe como tecnologías de short-reads
   - El extremo 3' de los reads tienen baja calidad.
   - Errores en las regiones invertidad repetidas y secuencias GCC.
   - Cualquier burbuja o daño en elos reactivos influencia negativamente en el secuenciamiento.
+
+ **Ion Torrent**
  
+ ```
+ Se basa en la detección de el ión de hidrógeno liberado durante el proceso de secuenciación.
+ ```
+ En la siguiente imagen de Kchouk et al. 2017 se explica el proceso de secuenciación
+ <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/ion.png">
+ 
+ **Pacific Biosciences**
