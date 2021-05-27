@@ -118,7 +118,27 @@ Se describe como tecnologías de short-reads
  ```
  Se basa en la detección de el ión de hidrógeno liberado durante el proceso de secuenciación.
  ```
- En la siguiente imagen de Kchouk et al. 2017 se explica el proceso de secuenciación
+ En la siguiente imagen de Kchouk et al. 2017 se explica el proceso de secuenciación.
+ 
+<p align="center">
  <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/ion.png">
+ 
+ | PLATAFORMA | PREPARACION DE LIBRERÍA | QUÍMICA | LONGITUD DE LECTURA | BASES POR CORRIDA | DURACION |
+| ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
+| Sanger |	PCR y clonación	| Fluoróforos	| 800	|800 pb	|3 horas |
+| Roche 454 GS FLX Titanio |	PCR en emulsión	| Pirosecuenciación	| 400	| 500 Mb	| 10 h |
+|SOLiD	| PCR en emulsión |	Secuenciación por ligación |	50 |	30–50 Gb |	7-14 días |
+| Illumina |	PCR	Puente | Terminadores reversibles |	35-300	| 0,1–3000 Gb | 7 a 84 h |
+| Ion Torrent| PCR en emulsión | Detección de iones de hidrógeno | 200-500| 10 Gb| 2 a 8|
+
+* Ventajas
+  - Bajo Costo
+  - Rápido
+  - Longitud de Lecturá más grande en comparción de las otras tecnología de NGS  de segunda generación
+ 
+* Desventajas 
+  - Difícil detección de homopolímeros.
+  - No es tan preciso.
+ 
  
  **Pacific Biosciences**
