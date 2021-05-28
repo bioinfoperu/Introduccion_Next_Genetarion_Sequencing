@@ -123,6 +123,7 @@ Se describe como tecnologías de short-reads
 <p align="center">
  <img src="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/ion.png">
  
+ 
  | PLATAFORMA | PREPARACION DE LIBRERÍA | QUÍMICA | LONGITUD DE LECTURA | BASES POR CORRIDA | DURACION |
 | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
 | Sanger |	PCR y clonación	| Fluoróforos	| 800	|800 pb	|3 horas |
@@ -140,5 +141,16 @@ Se describe como tecnologías de short-reads
   - Difícil detección de homopolímeros.
   - No es tan preciso.
  
+# Tecnologías de la tercera generación
+
+ ```
+Se describe como tecnologías de long-reads
+```
+ Secuenciamiento en tiempo real.
+ Secuenciamiento rápido.
  
  **Pacific Biosciences**
+ 
+ **Oxford Nanopore Technologies**
+
+ # Referencias
