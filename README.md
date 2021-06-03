@@ -147,9 +147,13 @@ Se describe como tecnologías de short-reads
 Se describe como tecnologías de long-reads
 ```
  Secuenciamiento en tiempo real.
+ 
  Secuenciamiento rápido.
  
  **Pacific Biosciences**
+  ```
+Pacific Biosciences realizó 2 principales innovaciones que permitieron observar el secuenciamiento de una sola molécula de ADN en tiempo real.
+```
  
  **Oxford Nanopore Technologies**
 
