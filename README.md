@@ -171,7 +171,7 @@ Los nucleótidos fosfomarcados con fluorescentes y zero-mode waveguide (ZMW), se
  Detección de nucleótidos miestras el ADN pasa a través del nanopore, utilizando la tecnología de interrupción de la corriente.
  ```
  
- <img scr= "https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/nano.png">
+ <img scr="https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/nano.png">
  
  He et. al 2021
  
