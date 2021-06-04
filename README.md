@@ -153,8 +153,25 @@ Se describe como tecnologías de long-reads
  **Pacific Biosciences**
   ```
 Pacific Biosciences realizó 2 principales innovaciones que permitieron observar el secuenciamiento de una sola molécula de ADN en tiempo real.
+Los nucleótidos fosfomarcados con fluorescentes y zero-mode waveguide (ZMW), secuenciamiento por síntesis 
 ```
+  <img src= "https://ars.els-cdn.com/content/image/1-s2.0-S1672022915001345-gr3.jpg">
+ 
+ * Ventajas
+  - Observar la actividad cinética de la ADN polimeraza. 
+  - Reads de hasta 10-15Kb.
+ 
+* Desventajas 
+  - Costoso.
+  - Tasa de error entre 10 a 15%.
  
  **Oxford Nanopore Technologies**
-
+   ```
+ Detección de nucleótidos miestras el ADN pasa a través del nanopore, utilizando la tecnología de interrupción de la corriente.
+ ```
+* Ventajas 
+  - Asequible.
+  - Portable
+* Desventajas 
+  - Alta tasa de error.
  # Referencias
