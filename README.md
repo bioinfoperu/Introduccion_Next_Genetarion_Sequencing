@@ -156,6 +156,7 @@ Pacific Biosciences realizó 2 principales innovaciones que permitieron observar
 Los nucleótidos fosfomarcados con fluorescentes y zero-mode waveguide (ZMW), secuenciamiento por síntesis 
 ```
   <img src= "https://ars.els-cdn.com/content/image/1-s2.0-S1672022915001345-gr3.jpg">
+ Road et al. 2015
  
  * Ventajas
   - Observar la actividad cinética de la ADN polimeraza. 
@@ -170,10 +171,25 @@ Los nucleótidos fosfomarcados con fluorescentes y zero-mode waveguide (ZMW), se
  Detección de nucleótidos miestras el ADN pasa a través del nanopore, utilizando la tecnología de interrupción de la corriente.
  ```
  <img scr= "https://github.com/bioinfoperu/Introduccion_Next_Genetarion_Sequencing/blob/main/nano.png">
+ He et. al 2021
  
 * Ventajas 
   - Asequible.
   - Portable
 * Desventajas 
   - Alta tasa de error.
+ 
  # Referencias
+ 
+He, M., Chi, X., & Ren, J. (2021). Applications of Oxford Nanopore Sequencing in Schizosaccharomyces pombe. In Yeast Protocols (pp. 97-116). Humana, New York, NY.
+  
+Kchouk, M., Gibrat, J. F., & Elloumi, M. (2017). Generations of sequencing technologies: from first to next generation. Biology and Medicine, 9(3).
+ 
+Kumar, K. R., Cowley, M. J., & Davis, R. L. (2019, October). Next-generation sequencing and emerging technologies. In Seminars in thrombosis and hemostasis (Vol. 45, No. 07, pp. 661-673). Thieme Medical Publishers.
+ 
+ Kürekçi, G. K., & Dinçer, P. (2014). Next-Generation DNA Sequencing Technologies. Erciyes Medical Journal/Erciyes Tip Dergisi, 36(3).
+ 
+Low, L. W. Y., & Tammi, M. T. (Eds.). (2017). Bioinformatics: A Practical Handbook of Next Generation Sequencing and Its Applications. 
+ 
+Rhoads, A., & Au, K. F. (2015). PacBio sequencing and its applications. Genomics, proteomics & bioinformatics, 13(5), 278-289.
+ 
