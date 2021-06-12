@@ -8,12 +8,20 @@ Yo amo 🎤, 💃 and ☕
 
 
 # Breve historia de la secuenciación del ADN
+
+ ```
+¿Cuál crees que fué el hito que marco el inicio de NGS?
+```
 Resaltar hechos importantes antes de la comercialización de tecnologías de Next Generation Sequencing (NGS) en una línea de tiempo
 
 <p align="center">
 <img src="project-2021-05-20_10-05_AM.jpg" width="700" height="990" >
 
 # Tecnologías de Next Generation Sequencing
+
+  ```
+¿ A qué llamanos tecnologías de Next Generation Sequencing?
+```
 
 ```
 Describe colectivamente los enfoques de secuenciación que han reducido el tiempo y el costo y han aumentado enormemente la producción de la secuencia en comparación con la secuenciación de Sanger. 
@@ -29,6 +37,7 @@ Research Institute (NHGRI)*
 <img src="https://www.genome.gov/sites/default/files/inline-images/NHGRISequencing_Cost_per_Megabase_Aug2020.jpg"  width="650" height="600">
  
  # Tecnologías de la segunda generación
+ 
  
 ```
 Se describe como tecnologías de short-reads
@@ -142,6 +151,8 @@ Se describe como tecnologías de short-reads
   - No es tan preciso.
  
 # Tecnologías de la tercera generación
+ 
+ ¿ En qué se diferencia la tecnología de segunda y tercera generación?
 
  ```
 Se describe como tecnologías de long-reads
